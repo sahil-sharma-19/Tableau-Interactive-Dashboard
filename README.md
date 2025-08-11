@@ -56,10 +56,14 @@ It enables analysis of genre popularity, global coverage, content rating distrib
 
 ## Impacts & Insights
 
-- **Enhanced Data Understanding**: Provides a clear and interactive way to understand complex datasets.
-- **Supports Decision Making**: Enables stakeholders to explore trends and patterns independently.
-- **Increases Engagement**: Interactive elements make data exploration more engaging.
-- **Scalable Visualization**: Can be expanded or customized with new data or views.
+- **Content Diversity Awareness:** Reveals how Netflix balances movies and TV shows, as well as the variety across genres, ratings, and international coverage, helping stakeholders understand audience preferences.
+- **Global Reach Visualization:** The map view highlights Netflix’s worldwide catalog distribution, valuable for content strategists assessing market penetration and regional representation.
+- **Trend Identification:** The time-based charts demonstrate how Netflix’s library has evolved year over year, providing insights on growth patterns, investment focus areas, and catalog expansion.
+- **Audience Targeting:** Insights into genre and rating popularity help tailor recommendations, marketing campaigns, and future content investments for different demographic segments.
+- **Business Decision Support:** Dashboard enables data-driven decisions for content acquisitions, localization, and strategic planning, grounded in catalog analytics and consumption trends.
+- **User Engagement:** Visual, interactive dashboard makes exploration intuitive, driving deeper engagement from business users or casual viewers seeking discovery.
+
+
 
 ## Dashboard Preview
 
