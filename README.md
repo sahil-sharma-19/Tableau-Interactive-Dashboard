@@ -30,5 +30,7 @@ This Tableau Public project presents an interactive dashboard that visualizes ke
 - **Increases Engagement**: Interactive elements make data exploration more engaging.
 - **Scalable Visualization**: Can be expanded or customized with new data or views.
 
+## Dashboard Preview
 
+![Tableau-Interactive-Dashboard]()
 
