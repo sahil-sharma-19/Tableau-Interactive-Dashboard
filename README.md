@@ -32,5 +32,5 @@ This Tableau Public project presents an interactive dashboard that visualizes ke
 
 ## Dashboard Preview
 
-![Tableau-Interactive-Dashboard]()
+![Tableau-Interactive-Dashboard](https://github.com/sahil-sharma-19/Tableau-Interactive-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
 
