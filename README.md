@@ -42,7 +42,7 @@ It enables analysis of genre popularity, global coverage, content rating distrib
 
 ## Features & Highlights
 
-- - **Distribution by Type:** Shows the count and percentage of Movies (6,131 titles) versus TV Shows (2,676 titles).
+-**Distribution by Type:** Shows the count and percentage of Movies (6,131 titles) versus TV Shows (2,676 titles).
 - **Global Coverage:** Interactive world map displays total number of movies and TV shows available by country.
 - **Genre Breakdown:** Bar chart presents the Top 10 most common genres.
 - **Content Ratings:** Bar chart shows content distribution by ratings such as TV-MA, TV-14, PG, etc.
