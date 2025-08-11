@@ -11,9 +11,39 @@ This Tableau Public project presents an interactive dashboard that visualizes ke
 
 ## Data Source Information
 
-- The dashboard uses a dataset relevant to the project’s focus (e.g., customer data, sales records, or other business metrics).
-- Data is structured and cleaned for visualization.
-- Original data used to create the dashboard is assumed to be available or referenced in the project.
+This dashboard visualizes data from the **Netflix Movies and TV Shows dataset**.  
+It includes the following key fields:
+
+- **Title:** Name of the movie or TV show.
+- **Type:** Movie or TV Show.
+- **Genre:** Includes multiple genres such as Comedies, Dramas, International Movies, Documentaries, Kids’ TV, Stand-Up Comedy, etc.
+- **Rating:** Content rating (e.g., TV-MA, TV-14, PG, etc.).
+- **Release Year:** Year the title was first released.
+- **Duration:** Length in minutes (for movies) or number of seasons/episodes (for TV shows).
+- **Date Added:** When the title was added to Netflix.
+- **Country:** Availability by country (shown visually on the dashboard map).
+- **Description:** Brief synopsis of each title.
+
+### Dashboard Highlights
+
+- **Distribution by Type:** Shows the count and percentage of Movies (6,131 titles) versus TV Shows (2,676 titles).
+- **Global Coverage:** Interactive world map displays total number of movies and TV shows available by country.
+- **Genre Breakdown:** Bar chart presents the Top 10 most common genres.
+- **Content Ratings:** Bar chart shows content distribution by ratings such as TV-MA, TV-14, PG, etc.
+- **Release Trends:** Area chart visualizes growth in total movies and TV shows added year by year.
+- **Snapshot Visualization:** Pie charts, bar charts, and maps make data easy to interpret.
+
+### Sample Data Format
+
+| Title                        | Type   | Genre                         | Release Year | Rating | Duration | Country    | Date Added   |
+|------------------------------|--------|-------------------------------|--------------|--------|----------|------------|--------------|
+| 10 jours en or               | Movie  | Comedies, Dramas, International Movies | 2012         | TV-14  | 97 min   | France     | July 1, 2017 |
+| ...                          | ...    | ...                           | ...          | ...    | ...      | ...        | ...          |
+
+The data is sourced from the publicly available Netflix dataset (e.g., Kaggle’s “Netflix Movies and TV Shows”).  
+It enables analysis of genre popularity, global coverage, content rating distribution, and annual trends in Netflix’s content library.
+
+
 
 ## Features & Highlights
 
