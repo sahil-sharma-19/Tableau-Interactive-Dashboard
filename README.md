@@ -26,12 +26,7 @@ It includes the following key fields:
 
 ### Dashboard Highlights
 
-- **Distribution by Type:** Shows the count and percentage of Movies (6,131 titles) versus TV Shows (2,676 titles).
-- **Global Coverage:** Interactive world map displays total number of movies and TV shows available by country.
-- **Genre Breakdown:** Bar chart presents the Top 10 most common genres.
-- **Content Ratings:** Bar chart shows content distribution by ratings such as TV-MA, TV-14, PG, etc.
-- **Release Trends:** Area chart visualizes growth in total movies and TV shows added year by year.
-- **Snapshot Visualization:** Pie charts, bar charts, and maps make data easy to interpret.
+
 
 ### Sample Data Format
 
@@ -47,6 +42,12 @@ It enables analysis of genre popularity, global coverage, content rating distrib
 
 ## Features & Highlights
 
+- - **Distribution by Type:** Shows the count and percentage of Movies (6,131 titles) versus TV Shows (2,676 titles).
+- **Global Coverage:** Interactive world map displays total number of movies and TV shows available by country.
+- **Genre Breakdown:** Bar chart presents the Top 10 most common genres.
+- **Content Ratings:** Bar chart shows content distribution by ratings such as TV-MA, TV-14, PG, etc.
+- **Release Trends:** Area chart visualizes growth in total movies and TV shows added year by year.
+- **Snapshot Visualization:** Pie charts, bar charts, and maps make data easy to interpret.
 - **Interactive Dashboard**: Users can filter, drill down, and explore the data dynamically.
 - **Multiple Visualization Types**: Combines charts, maps, and tables for comprehensive analysis.
 - **User-Friendly Interface**: Designed for both technical and non-technical users.
