@@ -2,6 +2,10 @@
 
 This Tableau Public project presents an interactive dashboard that visualizes key insights from a dataset (e.g., customer segmentation, business metrics, or other analytics). It enables dynamic exploration and visualization using Tableau’s powerful features, helping users uncover patterns and make data-driven decisions through intuitive graphical interfaces.
 
+### Tableau Dashboard Link
+
+https://public.tableau.com/views/Dashboard_17548985101450/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## Key Technologies Used
 
 - **Tableau Public**: Primary tool for building and publishing interactive dashboards.
